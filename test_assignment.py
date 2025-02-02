@@ -51,3 +51,4 @@ def test_bitwise_ops():
     assert result["and"] == 8
     assert result["or"] == 14
     assert result["xor"] == 6
+print("HellowWorld")
